@@ -66,7 +66,7 @@ The **Robot Arm** is powered by an **Arduino Uno**, servo motors, and an **IR re
 
 ## 🎥 Demo  
 
-▶️ Watch the demo here: [YouTube Video](https://youtu.be/WG2obhlSz90?si=MJPc41HOwzrAtwJ5)  
+[![Watch on YouTube](https://i9.ytimg.com/vi/WG2obhlSz90/mqdefault.jpg?v=677e94b2&sqp=CIyjsMYG&rs=AOn4CLD6GtEtZJ-HZmiB3_sBHKQg9EEEpw)](https://youtu.be/WG2obhlSz90?si=MJPc41HOwzrAtwJ5)
 
 ---
 
